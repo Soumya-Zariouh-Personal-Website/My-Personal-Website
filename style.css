@@ -1,0 +1,23 @@
+
+header {
+    background-color: #012f6f;
+    color: white;
+    padding: 10px 0;
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat 5; /* four equal-width columns */
+    grid-gap: 25px; /* Gap between grid items */
+    
+}
+#sections{
+    display: flex;
+    text-align: center;
+    padding-left: 80%;
+    position: absolute; top: 20px;
+}
+
