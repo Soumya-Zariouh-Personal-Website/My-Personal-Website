@@ -83,3 +83,45 @@ a:hover, a:active {
     text-align: left;
     padding-right: 10%;
     position: absolute; bottom: 10px;}
+
+
+    #about-me{
+        text-align: center;
+        padding-right: 60%;
+    }
+    #web-purp{
+        text-align: center;
+        padding-left: 50%;
+    }
+    #personal-contact{ 
+        display: flex;
+        text-align: center;
+        padding-left: 15%;
+        position: absolute; bottom: 20px;
+       
+    
+    }
+    #personal-links{
+        
+        text-align: center;
+        padding-left: 55%;
+        position: absolute; bottom: 25px;
+    
+    }
+    #feel-free{
+        text-align: center;
+    }
+    #contact{
+        background-color: #151515;
+        color: rgb(252, 250, 250);
+        padding-bottom: 0%;
+        padding-top: 16%;
+        padding-left: 0%;
+        padding-right: 50%;}
+        
+      
+       .sidebar a img{
+        width: 2rem;
+        height: 2rem;
+        margin: 10px;
+       }
