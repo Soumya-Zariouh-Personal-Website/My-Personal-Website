@@ -1,5 +1,6 @@
 # My-Personal-Website
 
+Professional qualities:
 Adaptable, Creative, Diligent.
-Testing my personal website partTwo
-Add reviewer
+
+My personal website - partTwo (Add reviewer)
